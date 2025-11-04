@@ -1,6 +1,20 @@
 <h1 align="center">📝 MERN Stack Note Taking App ✨</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+<h2>Add new note</h2>
+
+![Demo App](/frontend/public/add-note.png)
+
+<h2>Edit</h2>
+
+![Demo App](/frontend/public/edit.png)
+
+<h2>Delete note</h2>
+
+![Demo App](/frontend/public/delete.png)
+
+<h2>Notes List</h2>
+
+![Demo App](/frontend/public/note-liste.png)
 
 Highlights:
 
